@@ -1,6 +1,6 @@
 
 
-### Hi there 👋, I'm Atikuzzaman 
+### Hi there, I'm Atikuzzaman 
 #### Laravel Developer
 
 
