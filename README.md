@@ -1,4 +1,4 @@
-![Laravel Developer](https://scontent.fjsr1-1.fna.fbcdn.net/v/t1.6435-9/81966480_914057932443281_2820289682170421008_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHzX2W0nBOrTKBjkyQZVqsFDJSGxdDSQU4MlIbF0NJBTuN3QOlPpkyKiRGJf3dULDiUqmByDDYJx0W2q0C8nAoV&_nc_ohc=dBY9GW2consAX_kLWVh&_nc_ht=scontent.fjsr1-1.fna&oh=00_AT_5O-WoGP-rV1P0-6_Tca4BGkKPjxAVCAwK8_PgXgx98Q&oe=61E39CF1)
+
 
 ### Hi there 👋, I'm Atikuzzaman 
 #### Laravel Developer
